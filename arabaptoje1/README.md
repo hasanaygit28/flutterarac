@@ -2,15 +2,37 @@
 
 A new Flutter project.
 
-## Getting Started
+# Paylaşımlı Araç Uygulaması (Flutter)
 
-This project is a starting point for a Flutter application.
+Bu proje, **Flutter** kullanarak geliştirilmiş, **Firebase** ve **Google Haritalar** entegrasyonlu basit bir paylaşımlı araç uygulamasıdır.
 
-A few resources to get you started if this is your first Flutter project:
+## Özellikler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Kullanıcı kaydı ve giriş (Firebase Authentication)  
+- Araç konumlarını gerçek zamanlı görüntüleme (Google Maps)  
+- Araç paylaşımı ve rezervasyon işlemleri  
+- Firebase Firestore ile veri yönetimi  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Teknolojiler
+
+- Flutter  
+- Firebase (Authentication, Firestore)  
+- Google Maps Flutter SDK  
+
+## Kurulum
+
+1. Depoyu klonlayın:
+
+```bash
+git clone https://github.com/kullaniciAdi/projeAdi.git.
+2.Paketleri yükleyin:
+
+bash
+flutter pub get
+3.Firebase projesi oluşturup google-services.json ve GoogleService-Info.plist dosyalarını projeye ekleyin.
+
+4.Google Maps API anahtarınızı ayarlayın.
+
+5.Uygulamayı çalıştırın:
+bash
+flutter run
