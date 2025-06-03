@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578153200676",
+    "project_id": "aracuygulamam28",
+    "storage_bucket": "aracuygulamam28.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578153200676:android:4978d9fe94e0540471acb1",
+        "android_client_info": {
+          "package_name": "com.example.arabaptoje1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578153200676-sjqdee2ao1l6s3dkreg6gcu6o48oj9bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWLPfqJqiRAKp7iR1u_pRvQ89PWVUZ8iA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578153200676-sjqdee2ao1l6s3dkreg6gcu6o48oj9bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
